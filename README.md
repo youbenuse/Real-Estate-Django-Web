@@ -166,5 +166,4 @@ Many thanks to [@bradtraversy](https://github.com/bradtraversy) for his awesome 
 
 ##### References
 
-1. https://www.traversymedia.com/
-2. https://www.djangoproject.com/
+1. https://www.djangoproject.com/
